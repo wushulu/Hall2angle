@@ -1,0 +1,104 @@
+xcp_ext_classic_trigger.o: \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_classic_trigger.c \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_classic_trigger.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/ext_mode_types.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/rtwtypes.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/include/xcp.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/common/xcp_common.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/rtwtypes.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/xcp_platform_custom.h \
+ D:/software/MATLAB2024a/toolbox/target/shared/armcortexmbase/xcp/include/sys_arch.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Core/Inc/main.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Core/Inc/stm32f4xx_hal_conf.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xe.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/core_cm4.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_version.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_compiler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_gcc.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/mpu_armv7.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_exti.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_cortex.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_utils.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_pwr.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/mw_stm32_types.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_common.h
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_classic_trigger.h:
+D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/ext_mode_types.h:
+D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/rtwtypes.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/include/xcp.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/common/xcp_common.h:
+D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/rtwtypes.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/xcp_platform_custom.h:
+D:/software/MATLAB2024a/toolbox/target/shared/armcortexmbase/xcp/include/sys_arch.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Core/Inc/main.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Core/Inc/stm32f4xx_hal_conf.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xe.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/core_cm4.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_version.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_compiler.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_gcc.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/mpu_armv7.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_exti.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_cortex.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_utils.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_pwr.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:
+D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/mw_stm32_types.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_common.h:

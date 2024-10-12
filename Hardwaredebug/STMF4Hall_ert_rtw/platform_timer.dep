@@ -1,0 +1,112 @@
+platform_timer.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/src/platform_timer.c \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/mw_stm32_types.h \
+ D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/rtwtypes.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Core/Inc/main.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Core/Inc/stm32f4xx_hal_conf.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xe.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/core_cm4.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_version.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_compiler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_gcc.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/mpu_armv7.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_exti.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_cortex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_utils.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_pwr.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h \
+ D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/STMF4Hall.h \
+ D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/rtwtypes.h \
+ D:/software/MATLAB2024a/simulink/include/rtw_extmode.h \
+ D:/software/MATLAB2024a/simulink/include/sysran_types.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/mw_stm32_nvic.h \
+ D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/STMF4Hall_types.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/stm_adc_ll.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/mw_stm32_types.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/stm_timer_ll.h \
+ D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/MW_target_hardware_resources.h \
+ D:/software/MATLAB2024a/toolbox/target/shared/armcortexmbase/scheduler/include/SysTickScheduler.h \
+ D:/software/MATLAB2024a/toolbox/target/shared/armcortexmbase/scheduler/include/arm_cortex_m_multitasking.h \
+ D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/MW_target_hardware_resources.h
+C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/mw_stm32_types.h:
+D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/rtwtypes.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Core/Inc/main.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Core/Inc/stm32f4xx_hal_conf.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xe.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/core_cm4.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_version.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_compiler.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_gcc.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/mpu_armv7.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_exti.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_cortex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_utils.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_pwr.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:
+D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/STMF4Hall.h:
+D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/rtwtypes.h:
+D:/software/MATLAB2024a/simulink/include/rtw_extmode.h:
+D:/software/MATLAB2024a/simulink/include/sysran_types.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/mw_stm32_nvic.h:
+D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/STMF4Hall_types.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/stm_adc_ll.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/mw_stm32_types.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/stm_timer_ll.h:
+D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/MW_target_hardware_resources.h:
+D:/software/MATLAB2024a/toolbox/target/shared/armcortexmbase/scheduler/include/SysTickScheduler.h:
+D:/software/MATLAB2024a/toolbox/target/shared/armcortexmbase/scheduler/include/arm_cortex_m_multitasking.h:
+D:/Work/Matlab/PMSM/testgeneration/STMF4Hall_ert_rtw/MW_target_hardware_resources.h:

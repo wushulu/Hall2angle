@@ -1,0 +1,2 @@
+startup_stm32f401retx.o: \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/STM32CubeIDE/Application/User/Startup/startup_stm32f401retx.s

@@ -1,0 +1,6 @@
+rt_nonfinite.o: \
+ D:/Work/Matlab/PMSM/05Hall/STMF4Hall_ert_rtw/rt_nonfinite.c \
+ D:/Work/Matlab/PMSM/05Hall/STMF4Hall_ert_rtw/rtwtypes.h \
+ D:/Work/Matlab/PMSM/05Hall/STMF4Hall_ert_rtw/rt_nonfinite.h
+D:/Work/Matlab/PMSM/05Hall/STMF4Hall_ert_rtw/rtwtypes.h:
+D:/Work/Matlab/PMSM/05Hall/STMF4Hall_ert_rtw/rt_nonfinite.h:

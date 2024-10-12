@@ -1,0 +1,2 @@
+stm_lpuart.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/src/stm_lpuart.c

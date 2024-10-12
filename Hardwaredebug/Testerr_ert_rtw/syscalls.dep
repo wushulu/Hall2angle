@@ -1,0 +1,2 @@
+syscalls.o: \
+ D:/Work/Matlab/PMSM/testgeneration/Testbuilderror/STM32CubeIDE/Application/User/Core/syscalls.c

@@ -1,0 +1,116 @@
+xcp.o: \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/src/xcp.c \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/common/xcp_common.h \
+ D:/Work/Matlab/PMSM/05Hall/STMF4Hall_ert_rtw/rtwtypes.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/xcp_platform_custom.h \
+ D:/software/MATLAB2024a/toolbox/target/shared/armcortexmbase/xcp/include/sys_arch.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Core/Inc/main.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Core/Inc/stm32f4xx_hal_conf.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xe.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/core_cm4.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_version.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_compiler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_gcc.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/mpu_armv7.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_exti.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_cortex.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_utils.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_pwr.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h \
+ D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/mw_stm32_types.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/include/xcp.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/include/xcp_internal.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/transport/include/xcp_transport_internal.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/include/xcp_transport.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/include/xcp.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/platform/default/xcp_mem.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/src/xcp_cfg.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/src/xcp_types.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/src/xcp_standard.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/src/xcp_daq.h \
+ D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/src/xcp_calibration.h
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/common/xcp_common.h:
+D:/Work/Matlab/PMSM/05Hall/STMF4Hall_ert_rtw/rtwtypes.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/xcp_platform_custom.h:
+D:/software/MATLAB2024a/toolbox/target/shared/armcortexmbase/xcp/include/sys_arch.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Core/Inc/main.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Core/Inc/stm32f4xx_hal_conf.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xe.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/core_cm4.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_version.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_compiler.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/cmsis_gcc.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/3P.instrset/cmsis.instrset/CMSIS/Core/Include/mpu_armv7.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_exti.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_cortex.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_utils.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_pwr.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:
+D:/Work/Matlab/PMSM/05Hall/TestHall/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:
+C:/ProgramData/MATLAB/SupportPackages/R2024a/toolbox/shared/supportpackages/stm32/include/mw_stm32_types.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/include/xcp.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/include/xcp_internal.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/transport/include/xcp_transport_internal.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/include/xcp_transport.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/include/xcp.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/platform/default/xcp_mem.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/src/xcp_cfg.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/src/xcp_types.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/src/xcp_standard.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/src/xcp_daq.h:
+D:/software/MATLAB2024a/toolbox/coder/xcp/src/target/server/protocol/src/xcp_calibration.h:

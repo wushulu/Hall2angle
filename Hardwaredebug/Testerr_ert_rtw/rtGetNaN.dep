@@ -1,0 +1,7 @@
+rtGetNaN.o: D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/rtGetNaN.c \
+ D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/rtwtypes.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/rtGetNaN.h \
+ D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/rt_nonfinite.h
+D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/rtwtypes.h:
+D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/rtGetNaN.h:
+D:/Work/Matlab/PMSM/testgeneration/Testerr_ert_rtw/rt_nonfinite.h:
